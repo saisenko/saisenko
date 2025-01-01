@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm saisenko, sai for short! 👋
 
-<!--
-**saisenko/saisenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm just a humble guy who loves diving into programming and making things over-complicated. Here's a bit about me:
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
+- 🌱 I’m constantly learning and exploring new technologies, especially Linux and OS related.
+- ⚡ Fun fact: I'm also a mad fan of fantasy, coffee and owls
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+- **Languages**: Python, JavaScript, C++
+- **Frameworks**: React & React Native, Flask
+- **Tools**: Git
+
+## 📊 GitHub Stats
+![saisenko's GitHub stats](https://github-readme-stats.vercel.app/api?username=saisenko&show_icons=true&theme=radical)
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/yevhenii-bevz-61735b284/)
